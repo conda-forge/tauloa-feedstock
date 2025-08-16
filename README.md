@@ -9,7 +9,7 @@ Package license: GPL-3.0-only
 
 Summary: Package for simulating tau lepton decays
 
-Documentation: http://tauolapp.web.cern.ch/tauolapp/resources/TAUOLA.1.1.8/Tauola_interface_design.1.1.8.pdf
+Documentation: http://tauolapp.web.cern.ch/tauolapp/resources/TAUOLA.1.1.9/Tauola_interface_design.1.1.9.pdf
 
 Current build status
 ====================
